@@ -1,2 +1,4 @@
 node_modules/
 .env
+
+oracleJdk-27/
