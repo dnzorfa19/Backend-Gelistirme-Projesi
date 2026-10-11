@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Node.js projesini tamamla",
+        "description": "UniTask REST API projesinin CRUD işlemlerini geliştir.",
+        "course": "Backend Development",
+        "priority": "high",
+        "status": "in-progress",
+        "dueDate": "2026-10-05",
+        "assignee": "Deniz"
+    },
+    {
+        "id": 2,
+        "title": "Postman testlerini yap",
+        "description": "API endpointlerinin tamamını Postman üzerinden test et.",
+        "course": "Backend Development",
+        "priority": "medium",
+        "status": "pending",
+        "dueDate": "2026-10-07",
+        "assignee": "Deniz"
+    },
+    {
+        "id": 3,
+        "title": "Yeni proje görevi",
+        "description": "API testlerini tamamla.",
+        "course": "Backend Development",
+        "priority": "high",
+        "status": "pending",
+        "dueDate": "2026-10-15",
+        "assignee": "Deniz"
+    },
+    {
+        "id": 4,
+        "title": "Backend API test görevini tamamla",
+        "description": "UniTask API için Postman testlerini tamamla.",
+        "course": "Backend Development",
+        "priority": "high",
+        "status": "pending",
+        "dueDate": "2026-10-15",
+        "assignee": "Deniz"
+    }
+]

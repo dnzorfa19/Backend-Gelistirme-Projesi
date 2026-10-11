@@ -1,0 +1,24 @@
+{
+  "name": "unitask",
+  "version": "1.0.0",
+  "description": "University Task and Project Management REST API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "university",
+    "task-management"
+  ],
+  "author": "Deniz Orfa",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "swagger-jsdoc": "^6.3.0",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
